@@ -1,100 +1,189 @@
-Johnny Coder
+Esteban RIOS
 ============
 
-----
+>  <esteban2web@gmail.com> • 06 67 12 71 89
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
 
-----
-
-Education
+Concepteur dévelopeur Informatique
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+* 6 années d'expériences
+* Création de sites web, développement de formats publicitaires, webmastering.
+* Connaissances sectorielles (e-commerce, publicité, luxe)
+* Principales compétences techniques: développement JAVASCRIPT, intégration HTML&CSS, développement PHP & MySQL.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Formations
+---------
 
-    *Minor: Awesomeology*
+---------------------------------------   ----------------------------------------
+**Concepteur développeur Informatique**   **Intégrateur des données multimédia**
+Niveau II (bac +4)                        Niveau III (bac +2)
+2013-2014                                 2008-2010
+M2I Formations Paris                      CFA COM Bagnolet
+---------------------------------------   ----------------------------------------
 
-Experience
+Parcours professionnel
 ----------
+ 
 
-**Your Most Recent Work Experience:**
+**Accorhotels.com**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+:	**Projet:** Maintenance et &Eacute;volutions accorhotels.com et sites marques
 
-* First item
+	**Poste:** Développeur Front-end  <small>(consultant Viseo technologies)</small>
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+	**Période:** de septembre 2017 à ce jour
 
-**That Other Job You Had**
+	------------------------------------------------------		------------------------------------
+	__Missions__												__Environnement technique__
+	Correction des tickets vie courante sites du groupe			Javascript
+	Développement JavaScript									gulpJS + browserify
+	Intégration HTML & LESS										jquery (factory JqueryUI créations des plugins)
+	Intégration des nouvelles pages								html
+																git		
+																less	
+	------------------------------------------------------		------------------------------------
+	
+----
 
-Also with a short description.
 
-Technical Experience
---------------------
+**PSA Groupe**
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+:	**Projet:** Configurateur de véhicules Peugeot
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+	**Poste:** Développeur Front-end  <small>(consultant Viseo technologies)</small>
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+	**Période:** mars 2016 - septembre 2016 (7 mois)
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+	------------------------------------------------------		------------------------------------
+	__Missions__												__Environnement technique__
+	Développement Javascript									Javascript
+	Intégration HTML & SASS										BackboneJS + MarionetteJS
+	Intégration des nouvelles pages								requireJS
+	Développement POC CONFISHOW									html
+	(Fusion du projet configurateur avec le site Peugeot)		jquery (création des plugins)
+																git	
+																sass	
+	------------------------------------------------------		------------------------------------
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+**HimediaGroup.com**
+
+:	**Projet:** Universal Tagging
+
+	**Poste:** Développeur Front-end
+
+	**Période:** septembre 2014 - janvier 2016 (16 mois)
+	
+
+	#### Missions:
+	* Développement et intégration des tags marketing
+	* Développement des templates publicitaires compatibles Appnexus, SmartServer
+	* Développement et support du projet Universal Tagging (gestionnaire des tags marketing)
+	* Mise à jour et support extension chrome utilisé pour débugger les templates
+
+	#### Environnement technique:
+
+	* Javascript
+	* lodash
+	* gruntJS
+	* backboneJS
+	* angularJS
+	* html
+	* css
+	* git
+
+----
+
+**LaFranceAgricole.fr**
+
+:	**Projet:** Gestion des sites du groupe
+
+	**Poste:** Développeur PHP (Webmaster)
+
+	**Période:** mai 2014 - août 2014 (4 mois)
+
+	
+	--------------------------------------------------		------------------------------------
+	__Missions__											__Environnement technique__
+	Mise à jour des sites du groupe La France Agricole		php5 (framework MVC propriétaire)
+	Intégration d'interfaces (twitter bootstrap)			MySQL
+	Intégration des nouvelles pages							Javascript (jQuery)
+	Développement et corrections des fonctionnalités		html
+															css
+															git	
+	--------------------------------------------------		------------------------------------
+
+----
+
+**Testapic.com**
+
+:	**Projet:** Application Testapic, backoffice et interface de tests
+
+	**Poste:** Développeur PHP
+
+	**Période:** février- 2014 à mai- 2014 (3 mois)
+
+
+	------------------------------------------------------	------------------------------------
+	__Missions__											__Environnement technique__
+	Développement et corrections des fonctionnalités du BO	PHP (zend Framework2)
+	Intégration d'interfaces (twitter bootstrap)			MySQL
+	Gestion des sites support								Javascript (jQuery)
+	Enrichissement documentation technique					html
+															css
+															git
+	------------------------------------------------------	------------------------------------
+
+----
+
+**Priceminister.com**
+
+:	**Projet:** Support pro, personnalisation (js, html & css)
+
+	**Poste:** Responsable support personnalisation des super boutiques
+
+	**Période:** septembre- 2010 à mai- 2014 (4 ans)
+
+
+	
+	------------------------------------------------------------	------------------------------------
+	__Missions__													__Environnement technique__
+	Support HTML & CSS aux marchands PRO							html & css
+	Intégration d'un thème wordpress personnalisé Priceminister		javascript
+	Gestion des sites support										php5, MySQL
+	Enrichissement documentation technique							wordpress
+	------------------------------------------------------------	------------------------------------
+
+----
+
+**Agence Kikaya**
+
+:	**Projet:** Intégration maquettes html & css
+
+	**Poste:** Intégrateur HTML & CSS
+
+	**Période:** septembre- 2008 à juillet- 2010 (2 ans)
+
+
+	
+	----------------------------------------------------------------	------------------------------------
+	__Missions__														__Environnement technique__
+	Intégration des maquettes HTML& CSS à partir des maquettes PSD		html & css
+	Intégration des e-mailings											javascript
+	webmastering site institutionnel									php5, MySQL
+	----------------------------------------------------------------	------------------------------------
+
+
+Informations complémentaires
+----------------------------------------
+
+-------------------------------     ----------------------------
+__Langues__                         __Centres d'intérêt__
+Français (bilingue)                 Développement web
+Espagnol (langue maternelle)        Cuisine
+Anglais (compréhension écrite)      Bricolage
+									Rubik's cube
+-------------------------------     ----------------------------

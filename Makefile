@@ -9,8 +9,8 @@ resume.pdf: resume.md
 	context resume.tex
 
 html: resume.html
-resume.html: style_chmduquesne.css resume.md
-	pandoc --standalone -H style_chmduquesne.css \
+resume.html: style_chmduquesne_eri.css resume.md
+	pandoc --standalone -H style_chmduquesne_eri.css \
         --from markdown --to html \
         -o resume.html resume.md
 
